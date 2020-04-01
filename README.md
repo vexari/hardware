@@ -35,6 +35,21 @@
   Price: 60$  
   Web Site: https://samy.pl/magspoof/  
   
+  ## NFC Kill ##
+  
+   - Securely disable RFID badges.   
+   - Test and harden RFID hardware.  
+   - Audit access control failure modes.  
+   - Test and reduce the attack surface for pen-test customers.  
+   - Single Discharge Mode (Standard + Professional Versions).  
+   - Continuous Discharge Mode (Professional Version only).  
+
+  
+  Category: RFID / Fuzzing  
+  Price: 180-250$  
+  Web Site: https://nfckill.com/  
+  
+  
   ## E-Mate X ##  
   
    - E-Mate X MOORC eMate 13 in 1 EMMC Tool BGA Socket for Easy JTAG Plus / UFI / RIFF / Medusa Pro Box Support for BGA 529 168 100 136 254 221 168 153 186 162. -  
@@ -55,15 +70,49 @@
    
   Category: USB  
   Price: 120$  
-  Web Site: http://mg.lol/blog/omg-cable
+  Web Site: http://mg.lol/blog/omg-cable  
   
+  ## Bash Bunny ## 
+  
+  The Bash Bunny by Hak5 is a simple and powerful multi-function USB attack and automation platform for penetration testers and systems administrators.  
+  It's easy setup & deployment with a simple "Bunny Script" language, multi-position attack switch and a centralized repository of payloads.  
+
+It's powerful with multiple attack vectors including HID keyboard, USB Ethernet, Serial and Mass Storage. Simultaneously perform keystroke injection attacks, bring-your-own-network attacks and intelligent exfiltration.  
+  
+  Category: USB  
+  Price: 100$  
+  Web Site: https://shop.hak5.org/products/bash-bunny
+    
   ## DSLogic ##  
   
    DSLogic is a series of USB-based logic analyzer, with max sample rate up to 1GHz, and max sample depth up to 16G.  
    DSLogic is protected by a CNC metal case to enhance noise immunity. Combined with shielded fly wires, DSLogic can be used to capture up to 250MHz digital signals (under 1G sample rate).  
   
-  Category: Universal / Lab equipment 
+  Category: Universal / Lab equipment  
   Price: 60-150$  
   Web Site: https://www.dreamsourcelab.com/product/dslogic-series/
    
+   ## FaceDancer21 ##  
    
+   The Facedancer is an open-source USB emulator and fuzzer.  
+  
+  
+  Category: USB / Fuzzing  
+  Price: 100$  
+  Web Site: http://goodfet.sourceforge.net/hardware/facedancer21/  
+  
+  ## Yard Stick One ##
+  
+   YARD Stick One (Yet Another Radio Dongle) can transmit or receive digital wireless signals at frequencies below 1 GHz. It uses the same radio circuit as the popular IM-Me. The radio functions that are possible by customizing IM-Me firmware are now at your fingertips when you attach YARD Stick One to a computer via USB.  
+   
+   Capabilities:  
+   - half-duplex transmit and receive -  
+   - official operating frequencies: 300-348 MHz, 391-464 MHz, and 782-928 MHz -  
+   - unofficial operating frequencies: 281-361 MHz, 378-481 MHz, and 749-962 MHz -  
+   - modulations: ASK, OOK, GFSK, 2-FSK, 4-FSK, MSK -      - data rates up to 500 kbps -  
+   - Full-Speed USB 2.0 -  
+
+  Category: SDR
+  Price: 100$  
+  Web Site: https://greatscottgadgets.com/yardstickone/  
+  
