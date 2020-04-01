@@ -145,6 +145,6 @@ The HydraBus is an open source multi-tool hardware for anyone interested in lear
   
   The nRF52840 Dongle is a small, low-cost USB dongle that supports Bluetooth 5, Bluetooth mesh, Thread, ZigBee, 802.15.4, ANT and 2.4 GHz proprietary protocols.  
   
-  Category: USB / WIFI  
+  Category: USB / ZigBee / Bluetooth
   Price: 18$    
   Web Site: https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle
