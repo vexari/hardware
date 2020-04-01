@@ -1,12 +1,14 @@
   ## Proxmark3 Rdv 4.0 ##
    The proxmark3 is a powerful general purpose RFID tool, the size of a deck of cards, designed to snoop, listen and emulate everything from Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 
+  Category: RFID  
   Price:  
   Web Site: https://www.kickstarter.com/projects/1408815241/proxmark3-rdv-40/description
 
   ## ChameleonTiny RevG ##
    Powerful and portable RFID Emulation multi-tool. Emulate MIFARE Classic® 1K and 4K (4-byte & 7-byte UID), MIFARE Ultralight® and more. 
 
+  Category: RFID  
   Price: 89 eu  
   Web Site: https://lab401.com/products/chameleon-mini-reve-rebooted?variant=50258105543
 
@@ -14,6 +16,7 @@
    APImote is a USB peripheral for experimenting with raw 802.15.4 frames.
    APImote aims to make raw frame sniffing and injection easy, with Python and Scapy where timing isn't critical (but see discussion on reflexive jamming in the API-do paper below). 
 
+  Category: Zigbee  
   Price: 150$  
   Web Site: http://apimote.com/  
   
@@ -28,6 +31,7 @@
    - Supports all three magnetic stripe tracks, and even supports Track 1+2 simultaneously -  
    - Easy to build using Arduino or other common parts -  
 
+  Category: RFID / NFC  
   Price: 60$  
   Web Site: https://samy.pl/magspoof/  
   
@@ -41,6 +45,7 @@
    - Simple: it is no need to choose the font type. The interface is simple and easy to use. which support all the chip package of eMMC. -  
    - Reliable: special machine design of the third generation eMMC, special power supply, independent overcurrent protection. -  
    
+  Category: Mobile  
   Price: 100$  
   Web Site: http://www.moorc.com/Products/E_MATE_X/2018/0510/443.html
   
@@ -48,9 +53,17 @@
   
    The O.MG Cable allows you to wirelessly execute almost every feature, and not just creating, saving, or executing payloads. You can wipe the flash clean, convert the O.MG Cable to an innocuous state, "break" the O.MG Cable so it will no longer pass data, and even flash new firmware.  
    
+  Category: USB  
   Price: 120$  
   Web Site: http://mg.lol/blog/omg-cable
   
+  ## DSLogic ##  
   
+   DSLogic is a series of USB-based logic analyzer, with max sample rate up to 1GHz, and max sample depth up to 16G.  
+   DSLogic is protected by a CNC metal case to enhance noise immunity. Combined with shielded fly wires, DSLogic can be used to capture up to 250MHz digital signals (under 1G sample rate).  
+  
+  Category: Universal / Lab equipment 
+  Price: 60-150$  
+  Web Site: https://www.dreamsourcelab.com/product/dslogic-series/
    
    
