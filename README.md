@@ -112,7 +112,39 @@ It's powerful with multiple attack vectors including HID keyboard, USB Ethernet,
    - modulations: ASK, OOK, GFSK, 2-FSK, 4-FSK, MSK -      - data rates up to 500 kbps -  
    - Full-Speed USB 2.0 -  
 
-  Category: SDR
+  Category: SDR  
   Price: 100$  
   Web Site: https://greatscottgadgets.com/yardstickone/  
   
+  ## HydraBus ##
+
+The HydraBus is an open source multi-tool hardware for anyone interested in learning/developing/debugging/hacking basic or advanced embedded hardware.
+ 
+ 
+  Category: Fuzzing / JTAG / Debugging  
+  Price: 75 eu  
+  Web Site: https://hydrabus.com/  
+  
+  ## Opticspy ##
+  
+  A tool to explore optical data transmissions and covert channels.  
+  
+  Category: Optical / Side Channel  
+  Price: 65-100$  
+  Web Site: https://hydrabus.com/  
+  
+  ## Hunter Cat ##
+  
+  The world's only credit card skimmer dectector. Rapidly and reliably audit card readers - ATMs, PoS devices, etc - without risking your real data.  
+  
+  Category: Skimmer / ATM   
+  Price: 39 eu  
+  Web Site: https://hunter.electroniccats.com/  
+  
+  ## nRF52840 dongle ##  
+  
+  The nRF52840 Dongle is a small, low-cost USB dongle that supports Bluetooth 5, Bluetooth mesh, Thread, ZigBee, 802.15.4, ANT and 2.4 GHz proprietary protocols.  
+  
+  Category: USB / WIFI  
+  Price: 18$    
+  Web Site: https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF52840-Dongle
